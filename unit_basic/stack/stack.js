@@ -26,7 +26,7 @@
 //   }
 // }
 
-// Refactoring
+// 배열 사용하지 않음
 class Stack {
   constructor() {
     this._size = 0;
