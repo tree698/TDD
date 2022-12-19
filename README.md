@@ -18,7 +18,8 @@
 - Stub 함수 학습
 
 ## :file_folder:stack 폴더
-- TDD를 적용하여 stack 구현 
+- TDD를 적용하여 stack 구현 (배열 활용)
+- 배열 이외 방법으로 리팩토링(Refactoring) 후, test code로 테스트
 
 |**학습한 모든 파일의 Coverage**|
 |:--:|
