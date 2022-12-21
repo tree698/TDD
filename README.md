@@ -5,8 +5,8 @@
 - (학습) TDD(Test Driven Development) 방식을 적용하여 자료 구조 중 하나인 stack 구현
 
 ## 스택
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
-![Jest](https://img.shields.io/badge/-Jest-007ACC?style=for-the-badge&logo=Jest)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flate&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
+![Jest](https://img.shields.io/badge/-Jest-007ACC?style=flate&logo=Jest)
 
 ## :file_folder:basics 폴더
 - unit basics 학습 &nbsp; :point_right: &nbsp; 환경설정, Matchers 등 학습
